@@ -1,22 +1,73 @@
-# 💫 About Me:
-🔭 I'm currently working on serving humanoid mobile robots and autonomous navigation systems using ROS2<br>👯 I'm looking to collaborate on robotics projects involving SLAM, computer vision, and embedded systems<br>🤝 I'm looking for help with advanced motion planning and human-robot interaction<br>🌱 I'm currently learning advanced ROS2 frameworks, behavior trees, and robot imitation learning<br>💬 Ask me about ROS2, SLAM, autonomous systems, CAD design, and robotics engineering<br>⚡ Fun fact: I love building robots that can think, navigate, and interact with humans!
+# 🤖 Naman Harshwal | Robotics Engineer
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-sain-996422314) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ros2jugaad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namanharshwal@gmail.com) 
- [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=image&logoColor=white)](https://naman-sain-robotics-vhhe8dr.gamma.site/)
+**_TRYING TO BE BETTER_** 🚀
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=namanharshwal&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=namanharshwal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=namanharshwal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=namanharshwal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=namanharshwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me:
+
+I'm a **Robotics Engineering** student and **ROS2 Full-Stack Developer** with a passion for designing and implementing intelligent autonomous systems. Currently developing software for serving humanoid mobile robots at **Robot Stem Point, New Delhi**.
+
+- 🤖 **Specialization**: ROS2, SLAM, Autonomous Navigation, Mobile Robotics
+- 💻 **Expertise**: Embedded Systems, Computer Vision, Motion Planning, Sensor Integration
+- 🎓 **Education**: B.Tech in Robotics & Automation, NIMS University (2022-2026)
+- 🏢 **Current Role**: Robotics Software Engineer Intern @ Robot Stem Point
+- 🔬 **Research Interests**: Industrial Robots, Serving Robots, Human-Robot Interaction, Robot Imitation Learning
+
+**_Passionate about building robots that can think, navigate, and interact with humans!_**
+
+---
+
+## 🌐 Socials & Connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-sain-996422314) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ros2jugaad) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanharshwal@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=globe&logoColor=white)](https://naman-sain-robotics-vhhe8dr.gamma.site/)
+
+---
+
+## 💻 Tech Stack:
+
+### **Languages**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com) [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://c.org) [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
+
+### **Robotics & Frameworks**
+[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://ros.org) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org) [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://arduino.cc)
+
+### **Hardware Platforms**
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22533?style=for-the-badge&logo=raspberry%20pi&logoColor=white)](https://raspberrypi.org) [![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://nvidia.com) [![STM](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://st.com)
+
+### **Tools & Platforms**
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
+### **Design & CAD**
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassault-systemes&logoColor=white)](https://solidworks.com) [![Fusion360](https://img.shields.io/badge/Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](https://autodesk.com) [![ANSYS](https://img.shields.io/badge/ANSYS-FFB81C?style=for-the-badge&logo=ansys&logoColor=white)](https://ansys.com)
+
+---
+
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanharshwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namanharshwal&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=namanharshwal&theme=dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=namanharshwal&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+<div align="center">
+
+### Let's build amazing robots together! 🚀🤖
+
+</div>
