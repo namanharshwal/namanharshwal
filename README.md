@@ -87,11 +87,6 @@ I'm a **Robotics Engineering** student and **ROS2 Full-Stack Developer** with a 
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=namanharshwal&theme=dark&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)ma/github-profile-trophy)
-
----
 
 ## 👁️ Profile Views
 
