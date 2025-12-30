@@ -47,11 +47,43 @@ I'm a **Robotics Engineering** student and **ROS2 Full-Stack Developer** with a 
 
 ---
 
-## 📊 GitHub Stats:
+## 🎯 Featured Projects & Achievements:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanharshwal&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namanharshwal&theme=dark&layout=compact)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namanharshwal&theme=dark&hide_border=false&layout=compact)
+### 🤖 **ROS2-Based Patrolling Robot Simulation**
+- Developed a complete simulation of a home security patrolling robot
+- Utilized **ROS2** and **SLAM Toolbox** for autonomous mapping and localization
+- Implemented autonomous navigation with waypoint following in **RViz and Gazebo**
+- Tech Stack: ROS2 Humble, Nav2, MoveIt2, Lidar Sensors
+
+### 🚗 **Obstacle Avoiding Robot with Telematics**
+- Engineered an autonomous robot using **Ultrasonic Sensors** for obstacle detection
+- Integrated real-time sensor data collection for telemetry and monitoring
+- Deployed on **Arduino/ESP32** microcontrollers with wireless communication
+- Successfully tested in multiple real-world scenarios
+
+### 🧠 **AI-Based Character Mimicking Chatbot**
+- Created an intelligent chatbot capable of mimicking distinct personalities (e.g., Sherlock Holmes)
+- Implemented using **Python** with advanced NLP techniques
+- Deployed conversational AI with character-specific reply styles
+
+### 🦾 **6-Legged Robotic Arm with CAD Design**
+- Designed comprehensive 6-legged robotic model using **SolidWorks**
+- Performed kinematics simulation and mechanical stability analysis with **ANSYS**
+- Validated movement patterns and structural integrity
+
+### 🎓 **Professional Experience**
+- **Robotics Software Engineer Intern** @ Robot Stem Point, New Delhi (June 2025 - Present)
+  - Developing software for **Serving Humanoid Mobile Robot** using ROS2 framework
+  - Working with **Jetson Orin Super Developer Kit**, **Intel RealSense D435if**, **360° LiDAR**
+  - Implementing SLAM, Nav2, Visual SLAM, and conversational AI integration
+  - Focus on making the robot fully autonomous with advanced sensor fusion
+
+### 🏆 **Awards & Certifications**
+- ✅ **Chandrayaan-4 Prototype Certification** (2023)
+- ✅ **e-Yantra Robotics Competition** Participant (2024-2025)
+- ✅ **Industrial Training Completion** - ROS2 & Embedded Systems (2025)
+
+---
 
 ---
 
