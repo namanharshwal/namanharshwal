@@ -10,7 +10,7 @@
 
 ## 👋 About Me:
 
-I'm a **Robotics Engineering** student and **ROS2 Full-Stack Developer** with a passion for designing and implementing intelligent autonomous systems. Currently developing software for serving humanoid mobile robots at **Robot Stem Point, New Delhi**.
+I'm a **Robotics Engineer** and **ROS2 Full-Stack Developer** with a passion for designing and implementing intelligent autonomous systems. Currently developing software for serving humanoid mobile robots at **Robot Stem Point, New Delhi**.
 
 - 🤖 **Specialization**: ROS2, SLAM, Autonomous Navigation, Mobile Robotics
 - 💻 **Expertise**: Embedded Systems, Computer Vision, Motion Planning, Sensor Integration
