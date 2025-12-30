@@ -49,14 +49,15 @@ I'm a **Robotics Engineering** student and **ROS2 Full-Stack Developer** with a 
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanharshwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanharshwal&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namanharshwal&theme=dark&layout=compact)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namanharshwal&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=namanharshwal&theme=dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=namanharshwal&theme=dark&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)ma/github-profile-trophy)
 
 ---
 
