@@ -29,9 +29,9 @@
 
 ### 👨‍💻 Executive Summary
 
-I am a **Robotics & Automation Engineer** and **ROS2 Full-Stack Developer** with a passion for designing and deploying robust, intelligent autonomous systems. My experience bridges theoretical robotics, mechanical design, embedded firmware, and production-grade ROS2 autonomous navigation.
+I am a **Robotics & Automation Engineer** and **ROS2 Full-Stack Developer** passionate about architecting, simulating, and deploying robust autonomous systems. My work spans the entire robotics stack: from mechanical CAD drafting and finite element analysis (FEA) to low-level microcontroller firmware (micro-ROS), high-performance compute integration (NVIDIA Jetson / Raspberry Pi), 3D SLAM navigation (Nav2 / RTAB-Map), and Edge AI computer vision.
 
-Currently, I serve as **Robotics Engineer** at **COMP POINT SYSTEMS INDIA PVT LTD**, where I spearhead the software and system architecture for an **AI-integrated Autonomous Serving Humanoid Mobile Robot** utilizing a cutting-edge **Dual-Brain heterogeneous computing architecture**.
+Currently, I serve as **Robotics Engineer** at **COMP POINT SYSTEMS INDIA PVT LTD**, where I spearhead the software and system architecture for an **AI-integrated Autonomous Serving Humanoid Mobile Robot** utilizing a heterogeneous **Dual-Brain architecture**.
 
 - 🔭 **Current Focus**: Autonomous Navigation (Nav2), 3D Volumetric SLAM (RTAB-Map / OctoMap), Edge AI on Jetson Orin Nano, and Brain-Computer Interfaces (BCI).
 - 🎓 **Education**: B.Tech in Robotics & Automation, **NIMS University**, Jaipur (2022 – 2026).
@@ -39,13 +39,11 @@ Currently, I serve as **Robotics Engineer** at **COMP POINT SYSTEMS INDIA PVT LT
   - **Robotics Engineer** @ *COMP POINT SYSTEMS INDIA PVT LTD* (June 2025 – Present)
   - **Robotics & AI Industrial Trainee** @ *ROBOAI Program*, Gujarat (Nov 2024 – June 2025)
   - **Robotics Software Engineer Intern** @ *Robot Stem Point*, New Delhi
-- 💡 **Philosophy**: Applying practical innovation and ethical engineering to bridge the gap between human-machine interaction and real-world autonomous robotics.
+- 💡 **Engineering Philosophy**: Applying practical innovation and ethical engineering to bridge the gap between human-machine interaction and autonomous robotic platforms.
 
 ---
 
 ### 💡 Core Engineering Solutions & Architectures Provided
-
-Here are core production and research solutions I have engineered across mobile robotics, humanoid platforms, and autonomous systems:
 
 <table>
   <tr>
@@ -59,7 +57,7 @@ Here are core production and research solutions I have engineered across mobile 
     </td>
     <td width="50%" valign="top">
       <h4>🌐 2. 3D Volumetric SLAM & Spatial Navigation</h4>
-      <p>Engineered multi-sensor spatial awareness pipelines for complex indoor navigation:</p>
+      <p>Engineered multi-sensor spatial awareness pipelines for complex indoor environments:</p>
       <ul>
         <li>Integrated <b>Orbecc Gemini 335</b> and <b>Intel RealSense D435if</b> depth cameras with <b>360° LiDAR</b> for dense 3D OctoMap occupancy grids.</li>
         <li>Implemented <b>RTAB-Map SLAM</b> loop-closure optimization and dynamic obstacle costmaps under <b>Nav2</b>.</li>
@@ -103,6 +101,84 @@ Here are core production and research solutions I have engineered across mobile 
     </td>
   </tr>
 </table>
+
+---
+
+### 📂 Complete Robotics Project Portfolio & Repositories
+
+Explore the full catalogue of open-source repositories spanning autonomous mobile robots, robotic arms, micro-ROS firmware, computer vision, drones, and telemetry tools:
+
+#### 🤖 1. Autonomous Mobile Robots (AMR), SLAM & Industrial Platforms
+
+| Repository | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [**`orbecc-octomap-rtabmap-ros2-jetson-orin-super`**](https://github.com/namanharshwal/orbecc-octomap-rtabmap-ros2-jetson-orin-super) | `ROS2 Humble` `Jetson Orin` `RTAB-Map` `OctoMap` | Autonomous spatial awareness & 3D volumetric mapping stack deployed on NVIDIA Jetson Super Dev Kit using Orbecc Gemini 335 RGB-D camera and RTAB-Map SLAM. |
+| [**`ros_o_bot_marik`**](https://github.com/namanharshwal/ros_o_bot_marik) | `ROS2` `Python` `YOLOv11` `Sensors` | Autonomous mobile robot stack featuring YOLOv11 real-time instance segmentation, sensor fusion, closed-loop motor control, and udev hardware rules. |
+| [**`Hoverboard-hover_ws-comp-point`**](https://github.com/namanharshwal/Hoverboard-hover_ws-comp-point) | `ROS2` `Embedded C` `Motor Control` | Industrial hoverboard differential-drive mobile base firmware and teleoperation workspace for COMP POINT SYSTEMS INDIA PVT LTD. |
+| [**`hover_ws-comp-point-pvt-ltd`**](https://github.com/namanharshwal/hover_ws-comp-point-pvt-ltd) | `ROS2` `Mobile Robot` `Comp Point` | Differential-drive motor controller and navigation stack for Comp Point Systems serving mobile robot base. |
+| [**`jetson-teleop-stempoint-robot-base-urdf-simulation-ros2-humble-with-slam`**](https://github.com/namanharshwal/jetson-teleop-stempoint-robot-base-urdf-simulation-ros2-humble-with-slam) | `ROS2 Humble` `Jetson` `SLAM` `URDF` | NVIDIA Jetson teleoperation, URDF simulation, and SLAM mapping stack for physical Stem Point mobile robot testing. |
+| [**`swarmy_mobile_robot`**](https://github.com/namanharshwal/swarmy_mobile_robot) | `ROS Melodic` `Jetson Eagle-101` `Ubuntu` | Differential-drive autonomous mobile robot prototype developed on a Jetson Eagle-101 with encoder feedback and mapping pipelines. |
+| [**`swarmy_mopping_robot`**](https://github.com/namanharshwal/swarmy_mopping_robot) | `JavaScript` `ROS` `Swarm Robotics` | Autonomous collaborative swarm mopping robot serving as master coordinator to map and dispatch tasks across cooperative robot units. |
+| [**`nammy_ps_turtlebot3`**](https://github.com/namanharshwal/nammy_ps_turtlebot3) | `ROS2` `Raspberry Pi` `TurtleBot3` | Complete TurtleBot3 mobile robot workspace configured for Raspberry Pi, wireless PlayStation controller teleoperation, and autonomous navigation. |
+| [**`ROS2-Humble-URDF-Based-Robot-Simulation-2024`**](https://github.com/namanharshwal/ROS2-Humble-URDF-Based-Robot-Simulation-2024) | `ROS2 Humble` `Gazebo` `URDF` `LiDAR` | Autonomous mobile robot simulation in ROS2 Humble featuring URDF modeling, 2D LiDAR sensor integration, SLAM, and teleop control in Gazebo. |
+| [**`custom_turtlebot3_cpp`**](https://github.com/namanharshwal/custom_turtlebot3_cpp) | `C++` `ROS2` `Autonomous Navigation` | Custom C++ autonomous navigation, obstacle avoidance, and sensor processing packages for TurtleBot3 in ROS2. |
+| [**`pc-teleop-stempoint-robot-base-urdf-simulation-ros2-humble`**](https://github.com/namanharshwal/pc-teleop-stempoint-robot-base-urdf-simulation-ros2-humble) | `ROS2 Humble` `Gazebo` `Teleoperation` | Host workstation teleoperation interface and Gazebo URDF simulation for physical Stem Point mobile robot deployment and verification. |
+
+---
+
+#### 🦾 2. Robotic Manipulators, Kinematics & Walking Hexapods
+
+| Repository | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [**`panda_robotic_arm_moveit2_task_3_waypoints`**](https://github.com/namanharshwal/panda_robotic_arm_moveit2_task_3_waypoints) | `ROS2 Humble` `MoveIt2` `Docker` `Python` | Sequential Cartesian waypoint trajectory execution for Franka Emika Panda robotic arm using MoveIt2 motion planning with containerized Docker deployment. |
+| [**`ros_o_arm_jazzy`**](https://github.com/namanharshwal/ros_o_arm_jazzy) | `ROS2 Jazzy` `Python` `Kinematics` `WebSocket` | Multi-DOF robotic arm forward and inverse kinematics package with sequential trajectory planning and a real-time WebSocket visualizer server. |
+| [**`Melodic-Spider_robot_hexapod_main`**](https://github.com/namanharshwal/Melodic-Spider_robot_hexapod_main) | `ROS Melodic` `C++` `Gait Planning` `Hexapod` | 6-legged hexapod walking robot kinematics, tripod gait generation, and physics simulation in ROS Melodic. |
+| [**`spider-robot-ros-melodic`**](https://github.com/namanharshwal/spider-robot-ros-melodic) | `Python` `ROS Melodic` `Inverse Kinematics` | Hexapod spider robot movement simulation, multi-leg coordination, and terrain adaptation in ROS. |
+
+---
+
+#### ⚡ 3. Embedded Systems, micro-ROS & Hardware Integration
+
+| Repository | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [**`esp32-microros-tof`**](https://github.com/namanharshwal/esp32-microros-tof) | `micro-ROS` `ESP32` `C++` `XRCE-DDS` `WiFi` | Embedded micro-ROS node running on ESP32 streaming real-time Time-of-Flight range measurements directly to ROS2 computational graph over WiFi. |
+| [**`microros_esp32_TB6612FNG`**](https://github.com/namanharshwal/microros_esp32_TB6612FNG) | `micro-ROS` `ESP32` `C` `TB6612FNG Driver` | 2-wheel differential-drive mobile robot firmware powered by ESP32 DevKit V1 and TB6612FNG motor driver communicating via micro-ROS. |
+| [**`mpu6050-imu-3d-visualization`**](https://github.com/namanharshwal/mpu6050-imu-3d-visualization) | `Python` `MPU6050 IMU` `3D STL Rendering` | Real-time 3D CAD STL model motion tracking and attitude visualization system driven by live 6-axis MPU6050 IMU sensor fusion. |
+| [**`depth_ws`**](https://github.com/namanharshwal/depth_ws) | `ROS` `RGB-D Depth Camera` `PCL` `RViz` | RGB-D depth camera visualization, point-cloud filtering, and spatial sensor fusion workspace for ROS. |
+
+---
+
+#### 👁️ 4. Computer Vision, Edge AI & Human-Robot Interaction (HRI)
+
+| Repository | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [**`person-enrollment-robot-computer-vision-ollama`**](https://github.com/namanharshwal/person-enrollment-robot-computer-vision-ollama) | `OpenCV` `Ollama LLM` `Python` `Edge AI` | Biometric facial enrollment and identification system integrated with local Ollama LLMs for conversational humanoid greeting and recognition. |
+| [**`Chinchin_Talkative_Hardware_Assistant`**](https://github.com/namanharshwal/Chinchin_Talkative_Hardware_Assistant) | `ESP32` `ESP-IDF` `Voice Audio` `AI Backend` | Dedicated hardware conversational assistant device featuring real-time audio pipeline, animated facial expressions, and AI backend integration. |
+| [**`Facial-Emotions-For-a-Robot-`**](https://github.com/namanharshwal/Facial-Emotions-For-a-Robot-) | `Python` `JavaScript` `Humanoid UI` | Dynamic facial emotion rendering engine and expressive robotic face UI for humanoid robots. |
+| [**`-voice-speech-to-txt-project-`**](https://github.com/namanharshwal/-voice-speech-to-txt-project-) | `Python` `SpeechRecognition` `Audio Processing` | Voice command interface and speech-to-text pipeline for voice-controlled autonomous robotics and smart devices. |
+
+---
+
+#### 🚁 5. Aerial UAVs & Specialized Field Robotics
+
+| Repository | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [**`px-2.4.8_drone_ros2_humble`**](https://github.com/namanharshwal/px-2.4.8_drone_ros2_humble) | `ROS2 Humble` `Pixhawk 2.4.8` `PX4/ArduPilot` `UAV` | Autonomous UAV flight controller integration coupling Pixhawk 2.4.8 hardware with QGroundControl mission planning and ROS2 Humble. |
+| [**`Poultry_Farm_Robot`**](https://github.com/namanharshwal/Poultry_Farm_Robot) | `ROS2` `Gazebo Simulation` `SLAM` `Agri-Tech` | Autonomous agricultural mobile robot simulation and navigation system designed for automated poultry farm surveillance and environmental mapping. |
+| [**`Miner_Detonator_Bot`**](https://github.com/namanharshwal/Miner_Detonator_Bot) | `ROS` `Gazebo` `Extreme Environment` `Rover` | Autonomous inspection and teleoperated rover simulation engineered for hazardous mining environments, detonator handling, and obstacle avoidance. |
+| [**`mowito-assignment`**](https://github.com/namanharshwal/mowito-assignment) | `Python` `VQ-BeT` `Behavior Cloning` `AI` | Robotics autonomous navigation implementation utilizing VQ-BeT (Vector Quantized Behavior Transformer) imitation learning models. |
+
+---
+
+#### 💻 6. Telemetry Dashboards, Web Systems & Developer Tools
+
+| Repository | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [**`ros2-robot-dashboard`**](https://github.com/namanharshwal/ros2-robot-dashboard) | `TypeScript` `React` `ROS2 WebSocket` `Web GUI` | Modern real-time telemetry and control dashboard for monitoring autonomous ROS2 mobile robots via web browser. |
+| [**`promptmine-website`**](https://github.com/namanharshwal/promptmine-website) | `JavaScript` `CSS3` `Prompt Engineering` `AI` | Interactive web platform designed for testing, curating, and sharing AI prompt engineering workflows. |
+| [**`orchids-naman-harshwal-portfolio`**](https://github.com/namanharshwal/orchids-naman-harshwal-portfolio) | `HTML5` `CSS3` `JavaScript` `Portfolio` | Interactive digital portfolio platform showcasing robotics engineering projects and accomplishments. |
+| [**`my-portfolio`**](https://github.com/namanharshwal/my-portfolio) | `HTML5` `CSS3` `Portfolio Web App` | Personal robotics engineering portfolio showcase website. |
+| [**`Python-Tutorials`**](https://github.com/namanharshwal/Python-Tutorials) | `Python` `Algorithms` `Robotics Scripting` | Comprehensive educational repository with tutorials, algorithmic patterns, and practical code examples for robotics scripting. |
 
 ---
 
@@ -166,73 +242,6 @@ Here are core production and research solutions I have engineered across mobile 
 | **DevOps, Tools & OS** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Ubuntu_Linux_22.04/24.04-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 </div>
-
----
-
-### 🚀 Featured Open-Source Repositories
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 <a href="https://github.com/namanharshwal/orbecc-octomap-rtabmap-ros2-jetson-orin-super">Orbecc RTAB-Map OctoMap ROS2</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ROS2-Humble-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Jetson-Orin_Super-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/3D-OctoMap-orange?style=flat-square" />
-      </p>
-      <p>Autonomous spatial awareness & 3D volumetric mapping stack deployed on the <b>NVIDIA Jetson Super Developer Kit</b> using <b>Orbecc Gemini 335</b> RGB-D camera and <b>RTAB-Map SLAM</b>.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🦾 <a href="https://github.com/namanharshwal/panda_robotic_arm_moveit2_task_3_waypoints">Panda Arm MoveIt2 Waypoints</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ROS2-Humble-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/MoveIt2-Motion_Planning-black?style=flat-square" />
-        <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square" />
-      </p>
-      <p>Precision trajectory execution package for Franka Emika Panda robotic manipulator using <b>MoveIt2</b> sequential waypoint motion planning with full <b>Docker containerization</b>.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧭 <a href="https://github.com/namanharshwal/mpu6050-imu-3d-visualization">MPU6050 3D IMU Visualization</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Sensors-MPU6050-teal?style=flat-square" />
-        <img src="https://img.shields.io/badge/3D-STL_Rendering-red?style=flat-square" />
-      </p>
-      <p>Real-time 3D CAD STL model motion tracking and attitude visualization system driven by live 6-axis <b>MPU6050 IMU</b> data for SLAM sensor fusion and hardware debugging.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👁️ <a href="https://github.com/namanharshwal/person-enrollment-robot-computer-vision-ollama">Robot Vision & Ollama Interaction</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=flat-square" />
-        <img src="https://img.shields.io/badge/Edge_AI-Ollama-black?style=flat-square" />
-        <img src="https://img.shields.io/badge/Humanoid-HRI-ff69b4?style=flat-square" />
-      </p>
-      <p>Vision-based biometric person enrollment and facial identification system paired with <b>Ollama local LLM</b> for conversational humanoid robot greetings and interactions.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📡 <a href="https://github.com/namanharshwal/esp32-microros-tof">ESP32 micro-ROS ToF Sensor</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/micro--ROS-ESP32-E7352C?style=flat-square" />
-        <img src="https://img.shields.io/badge/ROS2-DDS-22314E?style=flat-square" />
-        <img src="https://img.shields.io/badge/WiFi-Hotspot_Bridge-purple?style=flat-square" />
-      </p>
-      <p>Embedded <b>micro-ROS</b> node running on ESP32 microcontrollers publishing real-time Time-of-Flight (ToF) range data directly to the ROS2 computational graph over WiFi.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/namanharshwal/swarmy_mobile_robot">Swarmy Mobile Robot</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Robotics-Autonomous_Mobile-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Jetson-Eagle--101-76B900?style=flat-square" />
-        <img src="https://img.shields.io/badge/ROS-Differential_Drive-yellow?style=flat-square" />
-      </p>
-      <p>Differential-drive autonomous mobile robot prototype developed on a <b>Jetson Eagle-101</b> running Ubuntu and ROS, designed for collaborative multi-robot operations.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
