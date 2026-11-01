@@ -21,7 +21,8 @@
 I am a **Robotics Software Engineer** with hands-on experience taking intelligent autonomous systems from mechanical CAD design to physics simulation and physical hardware deployment.
 
 - 🎓 **B.Tech in Robotics & Automation** — NIMS University (7th Semester)
-- 💼 **Robotics Software Engineer Intern** — Robot Stem-Point (Janakpuri, New Delhi)
+- 💼 **1 Year Startup Company Experience** — Robot Stem-Point / TechKidz (Autonomous Mobile Robots)
+- 🤖 **3+ Years Advanced Robotics Projects** — 15+ systems individually architected, designed, and built from scratch
 - 🛠️ **Core Focus**: ROS2 Humble, Autonomous Mobile Robots (AMR), SLAM Navigation, MoveIt2 Kinematics, SolidWorks CAD, and micro-ROS Embedded Controllers.
 - 📜 **21 Accredited Certifications** in Robotics, AI, and Simulation from NVIDIA Inception, Microsoft for Startups, AWS Cloud, MathWorks, and Pantech Prolabs.
 
