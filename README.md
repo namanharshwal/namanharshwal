@@ -5,7 +5,7 @@
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-naman--portfolio.web.app-2997ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naman-portfolio-a0627.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naman_Sain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-sain-996422314/)
-[![YouTube](https://img.shields.io/badge/YouTube-@ros2jugaad-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ros2jugaad)
+[![YouTube](https://img.shields.io/badge/YouTube-@nammy.s_ros-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nammy.s_ros?si=BZbYtcy_QJE64Dd8)
 [![Email](https://img.shields.io/badge/Email-namanharshwal@gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanharshwal@gmail.com)
 
 <p align="center">
