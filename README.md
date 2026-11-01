@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/naman-sain-996422314">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://naman-sain-robotics-vhhe8dr.gamma.site/">
+  <a href="https://naman-portfolio-a0627.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://youtube.com/@ros2jugaad">
@@ -264,7 +264,7 @@ Explore the full catalogue of open-source repositories spanning autonomous mobil
 ### 🤝 Let's Collaborate & Build Intelligent Autonomous Systems!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-sain-996422314)
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naman-sain-robotics-vhhe8dr.gamma.site/)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naman-portfolio-a0627.web.app/)
 [![YouTube](https://img.shields.io/badge/Subscribe_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ros2jugaad)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanharshwal5789@gmail.com)
 
